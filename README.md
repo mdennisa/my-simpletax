@@ -10,7 +10,5 @@ By using this tools, you can estimate how much is the amount of your income tax 
 
 ### Notes
 
-**If you wish to get the full details of your income tax calculation, you should submit your tax via **
-
-[e-FILING]: https://ez.hasil.gov.my/CI/	"ez.hasil.gov.my"
+**If you wish to get the full details of your income tax calculation, you should submit your tax via [e-FILING](https://ez.hasil.gov.my/CI/)**
 

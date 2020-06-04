@@ -54,7 +54,7 @@ export class App extends Component {
                     <br />
                     By using this tools, you can estimate how much is the amount of your income tax roughly per-month.
                     <br />
-                    If you wish to get the full details of your income tax calculation, you should submit your tax via <a href="https://ez.hasil.gov.my/CI/" target="_blank">e-FILING</a>
+                    If you wish to get the full details of your income tax calculation, you should submit your tax via <a href="https://ez.hasil.gov.my/CI/" target="_blank" rel="noopener noreferrer">e-FILING</a>
                 </div>
 
                 <form className="uk-form" onSubmit={this.handleSubmit}>
