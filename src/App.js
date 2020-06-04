@@ -46,13 +46,15 @@ export class App extends Component {
             <div className="uk-container">
                 <h1 className="uk-heading-small">MY SimpleTax</h1>
                 <p className="uk-text-primary">
-                    Base tax calculator for foreigner working in Malaysia
+                    Tools to calculate initial income tax before deductions or rebates for foreigner working in Malaysia
                 </p>
 
                 <div className="uk-alert uk-alert-warning">
-                    DISCLAIMER
+                    NOTES
                     <br />
-                    The tax calculation is based on initial income tax formula before deductions or rebates.
+                    By using this tools, you can estimate how much is the amount of your income tax roughly per-month.
+                    <br />
+                    If you wish to get the full details of your income tax calculation, you should submit your tax via <a href="https://ez.hasil.gov.my/CI/" target="_blank">e-FILING</a>
                 </div>
 
                 <form className="uk-form" onSubmit={this.handleSubmit}>
